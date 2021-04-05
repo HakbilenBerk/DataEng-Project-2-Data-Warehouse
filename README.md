@@ -63,7 +63,6 @@ create_tables.py -> is where we'll create our fact and dimension tables for the 
 
 etl.py -> is where we'll load data from S3 into staging tables on Redshift and then process that data into our analytics tables on Redshift.
 
-test.ipynb -> displays the first few rows of each table to let you check your database.
 
 ## Envronment requirements
 <ul>
